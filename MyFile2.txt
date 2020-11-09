@@ -1,1 +1,6 @@
 more great stuff here
+More stuff have been added,
+we are cloning
+committing the changes
+pushing the changes
+remote repository
