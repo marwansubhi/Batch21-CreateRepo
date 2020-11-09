@@ -1,1 +1,2 @@
 Adding from GitHub.com, infinite loop creating repo
+Adding some texts
